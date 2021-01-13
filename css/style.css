@@ -1,0 +1,166 @@
+.a-programmer {
+    font-weight: normal;
+}
+
+.photo-profile {
+    width: 200px;
+    margin: 30px;
+    border-radius: 50%;
+}
+
+.skill-image {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+body {
+    clear: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 150%;
+
+}
+
+.intro {
+    width: 50%;
+    margin: auto;
+}
+
+h1 {
+    font-size: 5.625rem;
+    color: #66BFBF;
+    margin-top: 0 auto 0 auto;
+    font-family: 'Crimson Text', serif;
+    
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Merriweather', serif;
+    font-size: 2.5rem;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Merriweather', serif;
+}
+
+.top-container {
+    background-color: #b7e4c7;
+    position: relative;
+    padding-top: 50px;
+}
+
+.middle-container {
+    margin-bottom: 50px
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+a {
+    font-family: 'Open Sans', sans-serif;
+    color: #EAF6F6;
+    text-align: center;
+    font-size: 100%;
+    margin: 10px 20px;
+}
+
+a:hover {
+    color: #EAF6F6
+}
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem
+}
+
+.footer-link {
+    color: #11999E;
+    text-decoration: none; 
+    font-size: 1rem;
+}
+
+p {
+    font-size: 1,3em;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.skills {
+    padding-top: 25px
+}
+
+.skill-row {
+    width: 50%;
+    position: relative;
+    margin: 50px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+} 
+
+.image-coffee {
+    float: right;
+    margin-left: 30px;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+    margin-top: 100px auto
+}
+
+.btn {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: Georgia;
+    font-size: 24px;
+    font-weight: 100;
+    padding: 20px;
+    background-color: #66BFBF;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+.btn:hover {
+    background: #1E62D0;
+    border: solid #3D94F6 1px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+
+ .contact-me {
+     margin-bottom: 50px;
+ }
